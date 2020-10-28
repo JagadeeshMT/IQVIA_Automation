@@ -1,0 +1,171 @@
+[
+    {
+        "currencies": [
+            {
+                "code": "AFN",
+                "name": "Afghan afghani",
+                "symbol": "؋"
+            }
+        ],
+        "name": "Afghanistan",
+        "capital": "Kabul"
+    },
+    {
+        "currencies": [
+            {
+                "code": "EUR",
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "name": "Åland Islands",
+        "capital": "Mariehamn"
+    },
+    {
+        "currencies": [
+            {
+                "code": "ALL",
+                "name": "Albanian lek",
+                "symbol": "L"
+            }
+        ],
+        "name": "Albania",
+        "capital": "Tirana"
+    },
+    {
+        "currencies": [
+            {
+                "code": "DZD",
+                "name": "Algerian dinar",
+                "symbol": "د.ج"
+            }
+        ],
+        "name": "Algeria",
+        "capital": "Algiers"
+    },
+    {
+        "currencies": [
+            {
+                "code": "USD",
+                "name": "United State Dollar",
+                "symbol": "$"
+            }
+        ],
+        "name": "American Samoa",
+        "capital": "Pago Pago"
+    },
+    {
+        "currencies": [
+            {
+                "code": "EUR",
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "name": "Andorra",
+        "capital": "Andorra la Vella"
+    },
+    {
+        "currencies": [
+            {
+                "code": "AOA",
+                "name": "Angolan kwanza",
+                "symbol": "Kz"
+            }
+        ],
+        "name": "Angola",
+        "capital": "Luanda"
+    },
+    {
+        "currencies": [
+            {
+                "code": "XCD",
+                "name": "East Caribbean dollar",
+                "symbol": "$"
+            }
+        ],
+        "name": "Anguilla",
+        "capital": "The Valley"
+    },
+    {
+        "currencies": [
+            {
+                "code": "AUD",
+                "name": "Australian dollar",
+                "symbol": "$"
+            },
+            {
+                "code": "GBP",
+                "name": "British pound",
+                "symbol": "£"
+            }
+        ],
+        "name": "Antarctica",
+        "capital": ""
+    },
+    {
+        "currencies": [
+            {
+                "code": "XCD",
+                "name": "East Caribbean dollar",
+                "symbol": "$"
+            }
+        ],
+        "name": "Antigua and Barbuda",
+        "capital": "Saint John's"
+    },
+    {
+        "currencies": [
+            {
+                "code": "ARS",
+                "name": "Argentine peso",
+                "symbol": "$"
+            }
+        ],
+        "name": "Argentina",
+        "capital": "Buenos Aires"
+    },
+    {
+        "currencies": [
+            {
+                "code": "AMD",
+                "name": "Armenian dram"
+            }
+        ],
+        "name": "Armenia",
+        "capital": "Yerevan"
+    },
+    {
+        "currencies": [
+            {
+                "code": "AWG",
+                "name": "Aruban florin",
+                "symbol": "ƒ"
+            }
+        ],
+        "name": "Aruba",
+        "capital": "Oranjestad"
+    },
+    {
+        "currencies": [
+            {
+                "code": "AUD",
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        ],
+        "name": "Australia",
+        "capital": "Canberra"
+    },
+    {
+        "currencies": [
+            {
+                "code": "EUR",
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "name": "Austria",
+        "capital": "Vienna"
+    }
+]
