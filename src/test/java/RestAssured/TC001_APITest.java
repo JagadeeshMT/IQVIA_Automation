@@ -51,11 +51,11 @@ public class TC001_APITest {
 		{
 			
 			Response response=doGetRequest(countryAPIURL);
-			//List<String> jsonResponse = response.jsonPath().getList("$");
+			/*List<String> jsonResponse = response.jsonPath().getList("$");
 
-			// System.out.println(jsonResponse.size());
-			// String capitalNames=response.jsonPath().getString("capital");
-			// System.out.println(capitalNames);
+			 System.out.println(jsonResponse.size());
+			 String capitalNames=response.jsonPath().getString("capital");
+			 System.out.println(capitalNames);*/
 			capitalName=response.jsonPath().getString("capital[0]");
 			counCurrCode=response.jsonPath().getString("currencies[0].code[0]");
 			
